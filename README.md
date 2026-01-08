@@ -1,1 +1,3 @@
-# git-AlexanderJunico-011250008
+Judul Project : Tampilan website dengan html
+Deskripsi Singkat : Profil Singkat
+Nama dan NIM : Alexander Junico & 011250008
